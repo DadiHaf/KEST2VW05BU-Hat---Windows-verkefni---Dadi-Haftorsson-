@@ -1,0 +1,1 @@
+# KEST2VW05BU-Hat---Windows-verkefni---Dadi-Haftorsson-
