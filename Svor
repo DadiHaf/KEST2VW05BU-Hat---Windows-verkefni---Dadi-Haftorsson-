@@ -27,23 +27,61 @@
 11.1.2.10 Click Turn system icons on or off. List the system icons that can be enabled.
 11.1.2.10 What can you do in the Notification & actions Settings window?
 
-11.1.3.4 What happened?
-11.1.3.4 What options are available?
-11.1.3.4 
-11.1.3.4 
-11.1.3.4 
-11.1.3.4 
-11.1.3.4
-11.1.3.4 
-11.1.3.4 
-11.1.3.4 
+11.1.3.4 What happened? The application disapeared.
+11.1.3.4 What options are available? Switch to, End task, Provide feedback, Debug, Greate dump file, Run new task, Always on top, Go to details, Open file location, Search online, Properties.
+11.1.3.4 What statuses are listed? CPU, Memory, Disk Network, GPU, GPU engine, Power usage, Power usage trend.
+11.1.3.4 What are the available actions that can be taken? Type, Status, Publisher, PID, Process name, Command line, CPU Memory, Disk, Network, GPU, GPU engine, Power usage, Power usage trend,
+11.1.3.4 What is the current utilization of the CPU? Around 3%.
+11.1.3.4 How many streams of instructions (i.e. Threads) are currently running? About 3730.
+11.1.3.4 How many Apps, Background processes, and Windows processes (i.e Processes) are currently running? 306.
+11.1.3.4 What is the total physical memory (MB)? 8000 MB.
+11.1.3.4 What is the available physical memory (MB)? 1400 MB.
+11.1.3.4 How much physical memory (MB) is being used by the computer? 6400 MB.
+11.1.3.4 What is the link speed? What type of Ethernet Adapter is in use on this computer?
+11.1.3.4 What type of network connection (i.e Connection type) is in use?
+11.1.3.4 What is the IPv4 address of the PC?
+11.1.3.4 What effect does this have on the columns? It changes the order of which the applications are shown based on their size.
+11.1.3.4 What affect does this have on the Memory column? It transforms the information that is being shown from size in MB to size in percentages.
+11.1.3.4 How could this be useful? It may help visualize the amount "stress" some applications could be having on the computer or which application could be slowing the computer down. It could also be useful when it comes to cleaning up the storage.
+11.1.3.4 The listed processes are divided by categories. What categories are listed? Apps, Background processs, Windows processes.
+11.1.3.4 Right-click a username. What are the available options? Exspand, disconnect, Manage user accounts.
+11.1.3.4 The Startup tab lists the processes that are started automatically during Windows startup. Click the
+Startup tab. Right-click a process and list the available options below. Exspand, Disable, Open file location, Search online, Properties.
+11.1.3.4 What type of information can you get from this list? Name, CPU time, Network, Metered network, Tile updates.
+11.1.3.4 The Details tab displays process information such as process ID (PID), status, and memory utilization.
+Right-click a process and list the available options below. End task, End process tree, Provide feedback, Set Priority, Set Affinity, Analyze wait chain, UAC virtualization, Create dump file, Open file location, Search online, Properties, Go to service(s).
 
+11.1.4.11 What happened with Folder1 and Folder2 on the Desktop? Folder2 is inside Folder1.
+11.1.4.11 What is the file extension for the text document?
+11.1.4.11 Make a copy of the text document and place it in Folder2. How would you do it? Right-clicking the new text document, click on Copy, open Folder2, right-click and click Paste.
+11.1.4.11 What are the attributes associated with this file? A.
+11.1.4.11 What is the complete path to Folder3? C:\Users\Name\OneDrive\Desktop\Folder1\Folder2
+11.1.4.11 What happened? Why would you want to do this? Folder1 now appears on the Quick access menu. This technique can be useful when it comes to wanting to access files quicker and having a more reliable and convenient way of finding them.
+11.1.4.11 What are folders listed in the Local Disk (C:)?
+11.1.4.11 Open the Users folder. List all the folders in the directory.
+11.1.4.11 Were you able to open it? Explain.
+11.1.4.11 Were you able to open it? Explain.
+11.1.4.11 Open the Public folder. List all the folders in the directory.
+11.1.4.11 Which folders or files listed under the Libraries heading? Camera Roll, Documents, Music, Pictures, Saved Pictures, Videos.
+11.1.4.11 How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
+from the computer?
 
-
-
-
-
-
-
-
-
+11.2.1.5 What are the viewing options? Category, Large icons, Small icons.
+11.2.1.5 Name a few of the Control Panel categories. System and Security, User Accounts, Network and Internet, Clock and Region.
+11.2.1.5 Which subcategory would help you troubleshoot common problems? Security and Maintainance.
+11.2.1.5 Which subcategory allow a program through Windows Firewall? Windows Defender Firewall.
+11.2.1.5 Which subcategory allows you to view the basic network information and set up connections? Network and Sharing Center.
+11.2.1.5 Which subcategory allows you to choose what happens when you insert a media or device? Devices and Printers.
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
+11.2.1.5 
