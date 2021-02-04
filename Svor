@@ -72,16 +72,47 @@ from the computer?
 11.2.1.5 Which subcategory allow a program through Windows Firewall? Windows Defender Firewall.
 11.2.1.5 Which subcategory allows you to view the basic network information and set up connections? Network and Sharing Center.
 11.2.1.5 Which subcategory allows you to choose what happens when you insert a media or device? Devices and Printers.
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
-11.2.1.5 
+11.2.1.5 Which subcategory allows you to add a printer? Devices and Printers.
+11.2.1.5 Which subcategory would you use to have a specific file type always open in a specified program? Progams and Features.
+11.2.1.5 Which subcategory would you use to uninstall a program? Progams and Features.
+11.2.1.5 Which subcategory would you use to install the Windows telnet client? Progams and Features.
+11.2.1.5 Which subcategory would you use change the account type from administrator to standard? User Accounts
+11.2.1.5 Which subcategory would you use to view, edit, or remove the web and Windows credentials? Credential Manager.
+11.2.1.5 Which subcategory would you use to customize the Taskbar? Taskbar and Navigation.
+11.2.1.5 Which subcategory would you use to show hidden files and folders? File Explorer Options.
+11.2.1.5 Which subcategory would you use to show extensions for known file types? File Explorer Options.
+11.2.1.5 Which subcategory would you use to change the time zone? Date and Time.
+11.2.1.5 Which subcategory would you use to change date format? Regions.
+11.2.1.5 Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet? Region.
+11.2.1.5 Which subcategory would you use to configure the computer to read aloud any text on the screen? Speech Recognition.
+11.2.1.5 Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy? Speech Recognition.
+
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+11.2.2.3 
+
+11.2.5.8 What is the current size of the virtual memory (paging file)? 19456 MB.
+11.2.5.8 What Drive [Volume Label] contains the paging file?
+11.2.5.8 What is the recommended paging file size for all drives? 2 GB.
+11.2.5.8 What Drive [Volume Label] contains the paging file?
+
+11.2.6.2 What information is listed in the Device Manager window? Why would you use it?
+11.2.6.2 Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+11.2.6.2 What additional information does Driver Details provide?
+11.2.6.2 What two options do you have for updating the driver? Search automatically for drivers, Browse my computer for drivers.
+11.2.6.2 What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out? The Roll Back Driver allows you to roll back to the previously installed driver if the device fails after updating the driver.
+11.2.6.2 What are the other available options? Disable Device, Uninstall Device.
